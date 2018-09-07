@@ -175,9 +175,9 @@ class Client_Bitstamp():	#创建一个bitstamp所有服务的类
 
 
 #access_key,secret_key,customer_id = input('a-key,s-key,c_id ').strip().split(',')
-access_key = 'Qml7MCGd6hScjmZ80aCEc2HpdnjsQJB6'
-secret_key = '8ppbAIWde1Rs0FiKClIPl5lQLipbHFBX'
-customer_id = 'rifx4560'
+access_key = 'YOUR API KEY'
+secret_key = 'YOUR API SECRET'
+customer_id = 'YOUR ACCOUNT CUSTOMER ID'
 clien_bitstamp = Client_Bitstamp(access_key,secret_key,customer_id)
 #print(clien_bitstamp._get_ticker())
 #print(clien_bitstamp._balance())
