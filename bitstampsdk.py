@@ -2,10 +2,11 @@
 # -*- coding:utf-8 -*-
 
 """
-@author: xuanzhi
+@author:  liuhuihui
 @file: bitstampsdk.py
 @bit_company: bitstamp
 @see https://github.com/sxz1216/bitstampsdk
+some code modified based on the above url,thanks the author
 """
 import requests
 import json
